@@ -19,6 +19,9 @@ No its not, your just a skid who cant seem to do simple stuff.
 ## It keeps showing errors, and telling me to post in the Issues tab
 Then post the issue and I'll help as soon as I can.
 
+## Can my sysadmin find out?
+If you are stupid, yes. Someone on GitHub tested (thanks [DamienB325](https://github.com/DamienB325) for testing it) and it will not trip that you booted in developer mode.
+
 
 # Legal Stuff
 Clockwork Industries is in no way affiliated or ran by any Mercury Workshop members.
