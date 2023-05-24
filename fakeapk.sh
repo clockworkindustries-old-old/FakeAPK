@@ -47,7 +47,7 @@ THIS IS FREE SOFTWARE! if you paid for this, you have been scammed and should de
 
 FakeAPK - This is a tool which while using fakemurk you are able to install APKs. This tool is for the people whos Play Store does not work while using fakemurk.
 
-Notes: This will most likely flag that you booted in Developer Mode. Read the README.md for more info. https://github.com/clockworkindustries/fakeapk
+Notes: As a side effect, this will also allow you ALL Developer Mode features without flagging to GAC that you are in developer mode.
 
 EOF
 }
